@@ -13,6 +13,10 @@ FastSSH is a password free tool with a look-up table in local
 
 default run mode is search, as demo shows.
 
+
+	fastssh
+
+
 another mode is run command with host number in your config file
 
 
