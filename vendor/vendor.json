@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "a58zUNtDH/gEd6F6KI3FqT2iEo0=",
+			"path": "github.com/mitchellh/go-homedir",
+			"revision": "ae18d6b8b3205b561c79e8e5f69bff09736185f4",
+			"revisionTime": "2018-08-24T00:42:36Z"
+		},
+		{
+			"checksumSHA1": "iAaX0GtKtIRjvqvIhogId+2Vfo8=",
+			"path": "github.com/olekukonko/tablewriter",
+			"revision": "e6d60cf7ba1f42d86d54cdf5508611c4aafb3970",
+			"revisionTime": "2018-10-26T07:14:10Z"
+		},
+		{
+			"checksumSHA1": "5uCZrLJQVHsl6eKXkX9+5MJi2TM=",
+			"path": "github.com/simon-xia/fzf",
+			"revision": "41d85df01eb4d30e60e7544d5de2b4fed86affc8",
+			"revisionTime": "2018-10-28T17:31:27Z"
+		}
+	],
+	"rootPath": "github.com/simon-xia/fastssh"
+}

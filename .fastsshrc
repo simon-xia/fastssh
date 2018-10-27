@@ -1,0 +1,10 @@
+name|host|user|password|port|comment
+service1|192.168.1.1|admin|admin|22| service1 test env
+service2|192.168.1.2|admin|admin|22| service2 stable env
+service3|test.dev.service.xxxx.com|admin|admin|22| service2 stable env
+mock |test.dev.service2.xxxx.com|admin|admin|22| service2 test env
+prod |192.168.1.3|admin|admin|22| service2 prod env
+service4|192.168.1.8|admin|admin|22| service2 stable env
+service5|192.168.1.9|admin|admin|22| service2 stable env
+service6|192.168.2.1|admin|admin|22| service2 stable env
+service7|192.168.2.2|admin|admin|22| service2 stable env
