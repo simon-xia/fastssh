@@ -8,6 +8,8 @@ FastSSH is a password free tool with a look-up table in local
 
 ## Install
 
+	brew install fastssh
+
 
 ## Usage
 
